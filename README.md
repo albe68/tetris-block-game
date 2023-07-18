@@ -1,4 +1,4 @@
-# tetris-block-game
+# tetris-block-games
 This is a game using React.js , tetris-block is an old school games and which was sold around the globe in various devices.
 # Usage :
 1). Install Node.js in your environment\
